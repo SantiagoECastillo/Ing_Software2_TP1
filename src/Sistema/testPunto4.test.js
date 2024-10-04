@@ -52,8 +52,4 @@ describe('Clase Tienda con fixtures', () => {
     TEARTDOWN: Es la fase de limpieza del entorno de prueba despuede de ejecutar cada prueba, aqui se liberan los recursos, se restablece el estado inicial,
         se eliminan objetos temporales
 
-
-
-
-
 */

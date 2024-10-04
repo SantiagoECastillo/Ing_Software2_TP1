@@ -29,6 +29,15 @@ class Tienda {
         const precioDescuento = producto.precio - (producto.precio * (porcentaje / 100));
         producto.actualizarPrecio(precioDescuento);
     }
+
+    calcular_total_carrito(nombresProductos) {
+        let total = 0;
+        nombresProductos.forEach(nombre => {
+            const producto = this.buscarProducto(nombre);
+            total += producto.precio;
+        });
+        return total;
+    }
 }
 
 module.exports = Tienda;

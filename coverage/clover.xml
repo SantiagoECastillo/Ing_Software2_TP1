@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1727232398999" clover="3.2.0">
+  <project timestamp="1727232398999" name="All files">
+    <metrics statements="27" coveredstatements="27" conditionals="6" coveredconditionals="6" methods="11" coveredmethods="11" elements="44" coveredelements="44" complexity="0" loc="27" ncloc="27" packages="1" files="2" classes="2"/>
+    <file name="Producto.js" path="C:\Users\NazaretCS\Desktop\Tp\Ing_Software2_TP1\src\Sistema\Producto.js">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <line num="4" count="45" type="stmt"/>
+      <line num="6" count="45" type="stmt"/>
+      <line num="8" count="45" type="stmt"/>
+      <line num="12" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="15" count="4" type="stmt"/>
+      <line num="19" count="3" type="stmt"/>
+    </file>
+    <file name="Tienda.js" path="C:\Users\NazaretCS\Desktop\Tp\Ing_Software2_TP1\src\Sistema\Tienda.js">
+      <metrics statements="20" coveredstatements="20" conditionals="4" coveredconditionals="4" methods="9" coveredmethods="9"/>
+      <line num="3" count="17" type="stmt"/>
+      <line num="7" count="35" type="stmt"/>
+      <line num="11" count="36" type="stmt"/>
+      <line num="12" count="20" type="cond" truecount="2" falsecount="0"/>
+      <line num="13" count="3" type="stmt"/>
+      <line num="15" count="17" type="stmt"/>
+      <line num="19" count="2" type="stmt"/>
+      <line num="20" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="28" count="4" type="stmt"/>
+      <line num="29" count="4" type="stmt"/>
+      <line num="30" count="4" type="stmt"/>
+      <line num="34" count="4" type="stmt"/>
+      <line num="35" count="4" type="stmt"/>
+      <line num="36" count="11" type="stmt"/>
+      <line num="37" count="10" type="stmt"/>
+      <line num="39" count="3" type="stmt"/>
+      <line num="43" count="4" type="stmt"/>
+    </file>
+  </project>
+</coverage>
